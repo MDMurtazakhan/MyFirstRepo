@@ -1,0 +1,18 @@
+From a3d0ed15e09d86d7c2a024d459e0ebbbc9ad6582 Mon Sep 17 00:00:00 2001
+From: murtaza_khan__ <murtazajannat.khan@gmail.com>
+Date: Wed, 29 Mar 2023 22:00:22 +0530
+Subject: [PATCH] added hello to C
+
+---
+ c.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/c.txt b/c.txt
+index e69de29..5784c3a 100644
+--- a/c.txt
++++ b/c.txt
+@@ -0,0 +1 @@
++Hello to new Branch 1
+-- 
+2.40.0.windows.1
+
